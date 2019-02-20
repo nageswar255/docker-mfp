@@ -14,7 +14,7 @@
 
 FROM ubuntu:14.04
 
-MAINTAINER Gabriel Mancini <gmancini@br.ibm.com> (@new_biel)
+
 
 # Install basics
 RUN apt-get update \
